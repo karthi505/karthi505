@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthi505
 - 🌱 I’m currently learning C/C++ and Rust
-- 💞️ I’m looking to collaborate on .. Any tech company that i find interesting
+- 💞️
 - 📫 How to reach me ... karthikxkrishnas@gmail.com for inquiries
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
