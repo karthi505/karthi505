@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @karthi505
-- 👀 I’m interested in ..
-Many things including,New technologies that keeps on getting updated,Learning different aspects of computer programming...are some of the few things i am interested in.
-- 🌱 I’m currently learning C/C++ and Pygame
+- 🌱 I’m currently learning C/C++ and Rust
 - 💞️ I’m looking to collaborate on .. Any tech company that i find interesting
 - 📫 How to reach me ... karthikxkrishnas@gmail.com for inquiries
 - 😄 Pronouns: ...
